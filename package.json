@@ -1,6 +1,6 @@
 {
   "name": "@yektas/plugins-slate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
   "author": "ORY GmbH",
@@ -54,9 +54,7 @@
     "@types/is-hotkey": "0.1.1",
     "@types/lodash.debounce": "4.0.4"
   },
-  "directories": {
-    "lib": "lib"
-  },
+  "files": ["src", "lib", "node_modules", "*.js", "*.json"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yektas/plugins-slate.git"
