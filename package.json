@@ -1,5 +1,5 @@
 {
-  "name": "plugins-slate",
+  "name": "@yektas/plugins-slate",
   "version": "0.0.1",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
@@ -57,5 +57,13 @@
   "directories": {
     "lib": "lib"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yektas/plugins-slate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yektas/plugins-slate/issues"
+  },
+  "homepage": "https://github.com/yektas/plugins-slate#readme",
   "description": ""
 }
